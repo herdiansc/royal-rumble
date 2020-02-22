@@ -14,6 +14,7 @@ For example, if you are given the royal names [George VI, William II, Elizabeth 
 
 ## How to Run
 I have built this app and included the executable version in this repo. Here is step to run the file:
+
 - Enter app root directory
 - Execute command `./royal-rumble <input_filename>` for example `./royal-rumble RoyalRumble/input1.txt`
 
