@@ -13,13 +13,9 @@ For example, if you are given the royal names [George VI, William II, Elizabeth 
 - Clone this repo to your $GOPATH/src directory
 
 ## How to Run
-I have built this app and included the executable version in this repo. Here is step to run the file:
-
+- Build the app to create executable file with command `go build .`
 - Enter app root directory
 - Execute command `./royal-rumble <input_filename>` for example `./royal-rumble RoyalRumble/input1.txt`
-
-## How to Build
-- Execute command `go build .`
 
 ## How to Run Unit Test
 - Enter app root directory
