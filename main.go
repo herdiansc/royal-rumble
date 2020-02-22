@@ -22,5 +22,7 @@ func main() {
 	}
 
 	sort.Sort(names)
-	fmt.Printf("Sorted names: %+v\n", names)
+	for i := range names {
+		fmt.Printf("%+v\n", names[i])
+	}
 }
